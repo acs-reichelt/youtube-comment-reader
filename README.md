@@ -1,4 +1,5 @@
-![YouTube Comment Reader Logo](/images/logo.png)
+
+![YouTube Comment Reader Icon](/images/icon-48.png) 
 # YouTube Comment Reader 
 
 ### Chrome Extension for Searching & Browsing YouTube Comments
