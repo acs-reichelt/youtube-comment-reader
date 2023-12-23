@@ -1,5 +1,4 @@
-
-![YouTube Comment Reader Icon](/images/icon-48.png) 
+[![YouTube Comment Reader Icon](/images/icon-48.png)][cws1]
 # YouTube Comment Reader 
 
 ### Chrome Extension for Searching & Browsing YouTube Comments
@@ -16,7 +15,7 @@
   ...e.g. filter for comments and/or responses containing a specific text phrase
 - Works with every language
 - Works with YouTube Shorts as well
-- Quickly navigate through comments and responses by (left, right, up, down) array keys
+- Quickly navigate through comments and responses by (left, right, up, down) arrow keys
 - Easily switch between light and dark mode
  
 #
@@ -33,7 +32,7 @@
 Chrome or any Chromium-based browser version 88 or higher.
 
 ## Install:
-[![Chrome Web Store](images/chrome-web-store.png)][cws1]\
+[![Chrome Web Store](/images/chrome-web-store.png)][cws1]\
 Go to this [extension's page in Google Chrome Web Store][cws1] and click the `Add to Chrome` button.
 
 ## Usage:
@@ -47,7 +46,7 @@ Go to this [extension's page in Google Chrome Web Store][cws1] and click the `Ad
 8. If you want to reply to or upvote a comment you may click on the comment time (e.g. "6 hours ago") above the comment text. This will open a new regular YouTube window with the regarding comment as the "Highlighted comment" appearing immediately under the video player. That way you can interact with the regular YouTube user interface to upvote and reply to a comment.
 
 #### Tip:
-- Use (left, right, up, down) array keys to quickly navigate through comments and replies (although, of course, mouse clicks work as well).
+- Use (left, right, up, down) arrow keys to quickly navigate through comments and replies (although, of course, mouse clicks work as well).
 - use up & down keys to go from one row to another
 - use the right arrow key to dive into details (of a currently selected row)
 - use the left arrow key to leave the details and return to parent list
